@@ -8,4 +8,4 @@ Instructions:
 5) Import the sql file which is in the sql directory.<br />
 6) You are ready to go!<br />
 7)Login details: Registration number :- Admin1 Password: admin123 or Registration number :- s123  Password: student@123 or Registration number :- s2123  Password: Student123.<br />
-8) Thank you !
+8)Thank you!
