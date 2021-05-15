@@ -7,4 +7,5 @@ Instructions:
 4) Create a database named:'StudentPortal' in phpmyadmin.<br />
 5) Import the sql file which is in the sql directory.<br />
 6) You are ready to go!<br />
-7) Thank you !
+7)Login details: Registration number :- Admin1 Password: admin123 or Registration number :- s123  Password: student@123 or Registration number :- s2123  Password: Student123.
+8) Thank you !
